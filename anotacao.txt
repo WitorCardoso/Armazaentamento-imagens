@@ -1,0 +1,28 @@
+
+/*
+
+  *GET: Buscar uma informação no back-end.
+  *POST:Criar uma infromação no back-end.
+  *PUT: alterar uma informação no back-end.
+  *DELETE: Deletar uma informação no back-end.
+
+*/
+
+/*
+* Tipos de paramentros
+
+* Query params: Parametros nomeados enviados na rota após o "?" (Filtros, paginação)
+* Route Params: Parametros utilizados para identificar recursos
+* Request Body: corpo da requisição, utilizado para criar ou alterar o usuario.
+
+*/
+
+/*
+*SQL: Mysql, SQLite, PostgresSQL, Oracle, Microsoft SQL Server
+* NoSQL: MongoDB, couchDB, etc...
+
+
+*DRiver: Select * from users
+*Query builder: table('users').select('*').where()
+
+*/
